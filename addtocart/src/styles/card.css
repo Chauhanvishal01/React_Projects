@@ -1,0 +1,35 @@
+section{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+}
+.cards{
+    width: 300px;
+    padding: 20px;
+
+}
+.cards:hover{
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+.img-box img{
+    width: 150px;
+    height: 200px;
+}
+.details button{
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    background-color: #dc143cb9;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details button:hover{
+    background-color: crimson;
+}

@@ -1,0 +1,16 @@
+.warning {
+    font-family: sans-serif;
+    height: 40px;
+    width: 400px;
+    background: red;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 70px;
+    left: 40%;
+    border-radius: 10px;
+    text-align: center;
+
+
+}
