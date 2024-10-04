@@ -1,1 +1,5 @@
-Content-Type: application/javascript
+/01_calculator/*.js
+  Content-Type: application/javascript
+
+/01_calculator/*.jsx
+  Content-Type: application/javascript
